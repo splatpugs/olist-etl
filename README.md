@@ -43,7 +43,7 @@ And with the rise of e-commerce platforms, such as Olist, most transactions are 
 
 ![DAD-OLIST](https://raw.githubusercontent.com/splatpugs/olist-etl/refs/heads/main/Diagrams/Olist_DataArchitectureDiagram.png)
 
-The entire process is automated on Azure via Azure Data Factory (ADF)’s trigger automation. Data is ingested from Kaggle API, cleaned & transformed using Azure Databricks & loaded into Azure SQL Database. The datasets are further analysed using SQL or Power BI for visualisations.
+
 ## Findings
 
 #### Payment Methods
