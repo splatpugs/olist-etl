@@ -48,7 +48,7 @@ And with the rise of e-commerce platforms, such as Olist, most transactions are 
 
 #### Payment Methods
 
-More can be found within the [documentation]()
+Within the scope of the data analysis on Olist, more can be found within the [documentation](https://github.com/splatpugs/olist-etl/blob/main/Olist_Documentation.pdf)
 
 
 ## Reflections
