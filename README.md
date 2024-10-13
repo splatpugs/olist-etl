@@ -48,6 +48,16 @@ And with the rise of e-commerce platforms, such as Olist, most transactions are 
 
 #### Payment Methods
 
+![PM-IMG](https://raw.githubusercontent.com/splatpugs/olist-etl/refs/heads/main/Diagrams/paymentmethods.jpg)
+
+Payments made using credit cards dominated, reaching a total value of $12M in Brazil's currency. Boleto usage also emerged, reaching $2.9M from 2016 to 2018. Boleto is a popular payment method in Brazil, especially for customers without credit cards or uncomfortable using them online. It works like a cash voucher with a barcode. However, it is not a very practical approach in today’s context in terms of settling post-transaction issues, such as payment disputes, refunds, or, worst, delays for the sellers to collect their funds.
+
+The map visualisation also provides an overview of seller locations by payment methods, allowing Olist to identify areas for optimizing infrastructure and enhancing in-house banking services, such as:
+
+- To optimise their infrastructure geographically, such as setting up physical cash deposit offices.
+- Introduce a new in-house banking service, such as cash deposit machines, so sellers or customers can deposit or retrieve funds.
+- Funds will be shown on the Olist platform as part of the new e-payment product: Olist e-wallet. 
+
 Within the scope of the data analysis on Olist, more can be found within the [documentation](https://github.com/splatpugs/olist-etl/blob/main/Olist_Documentation.pdf)
 
 
